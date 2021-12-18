@@ -13,8 +13,8 @@ Background: Python, SQL, HTML, CSS, PHP, Power BI, Machine Learning.
 
 ## Projetos
 
-* Titanic - O que os dados revelam? -
-* Detecção de Fraudes em Transações com Cartão de Crédito - 
+* Titanic - O que os dados revelam? - https://bit.ly/3FdrFWO
+* Detecção de Fraudes em Transações com Cartão de Crédito - https://bit.ly/3mgcHb2
 
 
 
