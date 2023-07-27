@@ -18,6 +18,6 @@ Background: Python, SQL, NoSQL, PySpark, Hadoop, Airflow, Pentaho Data Integrati
 
 * Titanic - O que os dados revelam? - https://bit.ly/3FdrFWO
 * Detecção de Fraudes em Transações com Cartão de Crédito - https://bit.ly/3mgcHb2
-* Análise de Crédito - Desde a Engenharia de Dados ao Deploy de Modelos de Machine Learning - Em andamento
+* Avaliação de Risco de Crédito - Desde a Engenharia de Dados ao Deploy de Modelos de Machine Learning - Em andamento
 
 
